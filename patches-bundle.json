@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-07-18T08:41:33",
+  "description": "## [1.7.0-dev.3](https://github.com/bufferk/morphe-patches/compare/v1.7.0-dev.2...v1.7.0-dev.3) (2026-07-18)\n\n### 🐛 Bug Fixes\n\n* fixed pipeline ([414946d](https://github.com/bufferk/morphe-patches/commit/414946d61bc30e97e9f171e298c31fa29081be36))",
+  "download_url": "https://github.com/bufferk/morphe-patches/releases/download/v1.7.0-dev.3/patches-1.7.0-dev.3.mpp",
+  "signature_download_url": "",
+  "version": "1.7.0-dev.3"
+}
